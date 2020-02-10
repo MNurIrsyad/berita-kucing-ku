@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Berita Kucing Ku</title>
+        <style>
+            h1 {
+                color : rgb(11, 111, 102);
+                font-family : verdana;
+                padding : 0px 0px 10px 50px;
+                font-size : 64px;
+                border-bottom : 8px double;
+                overflow :auto;
+                margin-top : 10px;}
+            #logo {
+                margin-top : 0px }
+            #tagline {
+                font-size : 20px;
+                padding : 0px 2px;
+                color : rgb(68, 126, 54);}
+            body { background-color : rgba(141, 235, 209, 0.28)}
+            #border-item {
+            }
+            #daily-status{
+                color : rgb(15, 148, 48);
+                font-family : verdana;
+                padding : 0px 50px;}
+            .daily-news {
+                color : rgb(40, 53, 101);
+                font-family : verdana;
+                padding : 0px 50px;}
+            h4 {
+                color : rgba(227, 24, 66, 0.69);
+                font-family : verdana;
+                font-size : 85%;
+                padding : 0px 50px;}
+            ol {
+                color : rgba(0, 75, 55, 1);
+                font-family : verdana;
+                padding : 0px 67px;}
+            ul {
+                color : rgba(0, 75, 55, 1);
+                font-family : verdana;
+                padding : 0px 67px;}
+            #p-1 { //kalau pakai id = ...
+                color : rgba(0, 75, 55, 1);
+                font-family : verdana;
+                padding : 0px 50px;}
+            #p-2 { //kalau pakai id = ...
+                color : rgba(125, 10, 82, 1);
+                font-family : verdana;
+                padding : 0px 50px;}
+            #img-1 {
+                padding : 0px 0px;}
+            #img-2 {
+                padding : 0px px;}
+            .info_me {
+                color : rgba(0, 75, 55, 1);
+                font-family : verdana;
+                padding : 0px 50px;}
+            #personal-info {
+                color : rgba(17, 149, 137, 0.99);
+                font-family : verdana;
+                padding : 0px 50px;}
+            #khan{
+                color : rgb(13, 112, 65);}
+            #youtube{
+                color : rgb(166, 44, 88);}
+            #data-cat {
+                color : rgba(0, 75, 55, 1);
+                font-family : verdana;
+                padding : 0px 2px 2px 2px;
+                margin : 0px 50px;}
+            .icon{
+                margin-right : 0px;}
+            .parallaxx {
+                position : fixed;
+                top : 0px; left : 0px; right : 0px; bottom : 560px;
+                background-color : rgb(251, 182, 182);
+                background-attachment:fixed;
+                background-repeat:no-repeat;
+                background-size:cover;}
+            #link-yt {
+                text-decoration : none;
+                font-weight : bold}
+        /* sdas */
+        </style>
+    </head>
+    <body>
+        <!-- sdas -->
+        <div class="parallaxx">
+        <h1><img id = "logo" src="/home/nurirsyad/Documents/BeritaKucingKu html-css website/469ee2b818c5a9e57ac1f730970b4372.png" alt="cat icon" width = "70"> Berita Kucing Ku &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
+            <a href="#daily-status-2"><img class = "icon" src="/home/nurirsyad/Documents/BeritaKucingKu html-css website/research.png" alt="data icon flaticon" width="50"></a>
+            <a href="#news-top-2"><img class = "icon" src="/home/nurirsyad/Documents/BeritaKucingKu html-css website/news.png" alt="data icon flaticon" width="50"></a>
+            <a href="#personal-info"><img class = "icon" src="/home/nurirsyad/Documents/BeritaKucingKu html-css website/information.png" alt="data icon flaticon" width="50"></a>
+        </h1>
+        </div>
+        <!--
+        <ul id = "border-item">
+            <li><strong><a href="#daily-status">Daily Status</a></strong></li>
+            <li><strong><a href="#news-top">Daily News</a></strong></li>
+            <li><strong><a href="#personal-info">About Me</a></strong></li>
+            <br>
+        </ul>
+        -->
+        <p>
+        <br id = "daily-status-2"><br><br><br><br>
+        <br>
+        </p>
+        <h2 id = "daily-status"><em>Status Kesehatan Kucing</em> | daily status</h2>
+        <p class = "info_me">
+        <img id="img-1" src="https://hargakucing.com/wp-content/uploads/2017/03/harga-kucing-kampung.png" alt="kucing kampung" width="150">
+        <img id="img-2"src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F3.bp.blogspot.com%2F-D-4deQ7T21w%2FWf-aybDX08I%2FAAAAAAAAAh0%2FYFYl9K1PAyEjGlAaPkqqPXJNXfqiF7G1wCLcBGAs%2Fw1200-h630-p-k-no-nu%2Fcat-2486634__340.jpg&f=1&nofb=1" alt="kucing hitam lucu" width="255">
+        <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.boredpanda.com%2Fblog%2Fwp-content%2Fuploads%2F2017%2F05%2FIMG_7727-591b667ca5211__700.jpg&f=1&nofb=1" alt="persian cat with tounge out" width = "119">
+        <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F3.bp.blogspot.com%2F-1tmPJ0bgo98%2FU94mrGHhbdI%2FAAAAAAAAAU8%2FevgdPI-mjDw%2Fs1600%2Fkucing%2Blucu%2Bhitam%2Bputih%2B2.jpg&f=1&nofb=1" alt="kucing hitam putih" width = "89">
+        <br>
+        <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.a2wr2CqS6T2i1ttrYhh96QHaFi%26pid%3DApi&f=1" alt="persian kitten" width="189">
+        <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.best-cat-art.com%2Fimages%2Fxturkish-angora-pd_mini.jpg.pagespeed.ic.A3si7gNpDV.jpg&f=1&nofb=1" alt="orang black turkish van cat" width="250">
+        <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Ff6%2Faa%2Fd3%2Ff6aad351a813ff1de2483dfdf151b913.jpg&f=1&nofb=1" alt="kitten manx cat orange" width="188">
+        <br><strong>updated on 08/02/2020 08:13 PM</strong> | <a target="_blank" id="link-yt" href="https://www.youtube.com/channel/UCMtI18MqAahezsBorapI69Q">Berikut video mengenai kucing ku</a>
+        </p>
+        <ul>
+            <li>Gribi : 70 % | sudah mau makan, minum obat, agak aktif, masih pilek</li>
+            <li>Sobi : 86 % | senang susu, makan, aktif, masi pilek</li>
+            <li>Diwul : 76 % | senang makan, aktif, masih berpotensi pilek</li>
+            <li>Jemblem : --</li>
+            <li>Joiy : --</li>
+            <li>Kiip : --</li>
+            <li>Piyo : --</li>
+        </ul>
+        <p>
+        <table id="data-cat" cellspacing="5" border="2"
+         width = "50%";
+         table-layout = fixed;>
+            <thead>
+                <tr>
+                    <th>Nama    </th>
+                    <th>Spesies </th>
+                    <th>Warna   </th>
+                    <th>Umur    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Gribi   </td>
+                    <td>Bombay Phanter  </td>
+                    <td>Hitam</td>
+                    <td>+6 Bulan</td>
+                </tr>
+                <tr>
+                    <td>Sobi   </td>
+                    <td>Bengal </td>
+                    <td>Bengal, Putih</td>
+                    <td>+1 Bulan</td>
+                </tr>
+                <tr>
+                    <td>Diwul   </td>
+                    <td>Persian  </td>
+                    <td>Hitam, Putih, Oranye</td>
+                    <td>+3 Tahun</td>
+                </tr>
+                <tr>
+                    <td >Jemblem   </td>
+                    <td>Tuxedo  </td>
+                    <td>Hitam, Putih</td>
+                    <td>+7 Bulan</td>
+                </tr>
+                <tr>
+                    <td id = "news-top-2">Joiy  </td>
+                    <td>Persian  </td>
+                    <td>Putih, Abu-abu</td>
+                    <td>+1 Bulan</td>
+                </tr>
+                <tr>
+                    <td>Kiip  </td>
+                    <td>Turkish Van  </td>
+                    <td>Hitam, Putih, Oranye</td>
+                    <td>+4 Bulan</td>
+                </tr>
+                <tr>
+                    <td>Piyo   </td>
+                    <td>Manx  </td>
+                    <td>Oranye</td>
+                    <td>-1 Bulan</td>
+                </tr>
+            </tbody>
+        </table>
+        </p>
+        <h2 class = "daily-news" id="news-top"><em>Selimut Baru, Suhu Baru</em> | daily news</h2>
+        <h4>Wednesday, 05/02/2020  |  05:30 PM</h4>
+
+        <p class="info_me">Pagi ini aku memberikan makan untuk Gribi, dan Sobi
+        <br> dengan makanan kaleng yang sudah di panaskan terlebih
+        <br> dahulu. Karena pagi-pagi kaka saya sudah mau berangkat,
+        <br>maka yang memberi obat untuk Gribi adalah giliran papah.
+        <br><br>
+        Hari itu juga, kita mendapat paket selimut hangat untuk Gribi,
+        <br>karena Sobi sudah punya satu. Kemudian kita setting stopkontak
+        <br> dan posisi selimutnya, dan . . . Berhasill. <strong>Selimut berfungsi dengan baik</strong>.
+        <br>Aku sangat senang karena Gribi bisa merasa hangat kembali di cuaca
+        <br>yang sering hujan ini ^_^
+        </p>
+
+        <h2 class="daily-news"><em>Aku Mau Lagi</em> | daily news</h2>
+        <h4>Thursday, 06/02/2020  |  08:14 AM</h4>
+
+        <p class="info_me">Pagi ini Gribi dan Sobi sudah diberikan makan kaleng yang sudah
+        <br>Aku panaskan sekitar 15 menit. Untuk Sobi, sebenarnya sudah mau
+        <br>diberikan makanan kaleng, cuman baru diberikan susu sama mamah,
+        <br>jadi Aku takut Sobi muntah. Makanya mama ajak olah-raga jalan
+        <br>biar minimal perutnya tidak keras lagi karena kembung. 20 menit
+        <br>kemudian, Sobi dan Gribi mulai meong kembali. <strong>Lapar atau mau main ?</strong>
+
+        <br><br>Berikut beberapa hal yang disukai Sobi dan Gribi :
+        </p>
+        <ol>
+            <li>Alas yang hangat</li>
+            <li>Makan daging lembut</li>
+            <li>Tempat pup yang bersih</li>
+            <li>Elus elus lehernya</li>
+            <li>Minum obat :'v</li>
+        </ol>
+
+        <h2 class="daily-news"><em>Selembut Sutra</em> | daily news</h2>
+        <h4>Saturday, 08/02/2020  |  08:00 PM</h4>
+
+        <p class="info_me">
+        Hari ini bapak dan ibu, tepatnya pada sore ini, pergi ke Pasar Kasemka,
+        <br>di Kota. Mereka pergi naik kereta tadii. Lalu disana ternyata beli
+        <br>semacam keset lembut begituu. Ibu beli 2, warna hitam belang putih,
+        <br>dan pink. Saat mereka pulang, aku langsung membereskan kandang kandang
+        <br>untuk merubah selimutnya dengan yang baru dibeli. <strong>Bahanya lembut banget</strong>,
+        <br>aku harap Gribi dan Sobi senang, karena selama ini hanya pakai baju bekas.
+        <br><br>
+        Aku membersihkan <em>litter</em> nya terlebih dahulu, agar terasa lebih nyaman.
+        <br>Setelah selesai semuanya, aku kemudian menyapu pasir yang berserakan
+        <br>di lantai, dan semua itu sangat worth it untuk si kucing untuk merasa
+        <br>nyaman. Aku sangat senang dengan alas baruu, semoga kucing ku juga :3
+        </p>
+
+        <h2 class="daily-news"><em>Merenggangkan Badan</em> | daily news</h2>
+        <h4>Monday, 10/02/2020  |  07:33 PM</h4>
+
+        <p class="info_me">
+        Hari ini, paket telah datang :o ... kandang besar untuk Gribii yang kami
+        <br>pesan 2 hari yang lalu. Kandang datang dalam bentuk lipatan, jadi Untuk
+        <br>membentuknya kembali sangat gampang, tidak perlu merakit dari awal.
+        <br>Sembari memasang karpet di kandang, Gribi mulai mengitar kandang nya
+        <br>berulang - ulang, Aku harap dia suka, karena dia bisa lebih lega untuk
+        <br><strong>berisirahat lebih nyaman</strong> dibandingkan kandang sebelumnya yang relatif
+        <br>kecil untuk badan nya. Aku senang dia mulai anteng 3 jam setelah di
+        <br>kandang. Semoga dia menyukainya, sehingga dapat dikarantina kembali uwu
+        </p>
+
+        <h2 id="personal-info"><em>About Myself</em>   .-.</h2>
+        <h4>@hotpotcookie | BasisAnakSekolah | irsyadndu</h4>
+
+        <p class="info_me">
+        <img id="image-3"src="http://orig07.deviantart.net/8b97/f/2015/016/1/6/more_baymax_by_marlartsce-d8e75v0.png" width="360" alt="more_baymax_by_marlartsce">
+        <br><br>Hello, I'm <strong id="name">Muhammad Nur Irsyad</strong> . . .
+        <br>currently 20 y.o, got 3 of my cats died in a month.
+        <br>It's the best way to express my feeling aftermath, ty <strong id="khan"><em>Khan Academy</em></strong> and <strong id="youtube"><em>YouTube</em></strong>.
+        <br>I hope i can make a good diary within, for myself, to my cats uwu
+        </p>
+
+    </body>
+</html>
